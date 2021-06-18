@@ -1,6 +1,9 @@
 _repo: The-New-York-Cake-Book-Fifty-Recipes-by-a-Famous-New-York-Chef_65572
 _version: 0.1.0
 alternative_title: 'The New York Cake Book: 50 Recipes by a Famous New York Chef'
+covers:
+- cover_type: archival
+  image_path: 65572-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65572#The-New-York-Cake-Book-Fifty-Recipes-by-a-Famous-New-York-Chef
 gutenberg_issued: '2021-06-08'
 gutenberg_type: Text
 identifiers:
